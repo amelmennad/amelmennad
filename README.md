@@ -1,13 +1,13 @@
 # Hi I'm Amel 
 [<img align="left" width="200" height="200" src="https://octodex.github.com/images/femalecodertocat.png"/>](https://octodex.github.com/images/femalecodertocat.png)
 
-**I'm a web developper**
+**I'm a Web developer**
 
 * I’m currently working on Drupal 
 
 * I go back to the basics to go further
 
-Fun fact: *I am developper AND my english level is very bad* 😅
+Fun fact: *I'm developer AND my english level is very bad* 😅
 
 >My favorite quote :
  >Choose a job you love, and you will never have to work a day in your life.
