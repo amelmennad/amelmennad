@@ -13,7 +13,7 @@ Fun fact: *I am developper AND my english level is very bad* 😅
  >Choose a job you love, and you will never have to work a day in your life.
  
 
-# Salut Moi c'est Amel 👋
+# Salut 👋 
 [<img align="right" width="200" height="200" src="https://octodex.github.com/images/femalecodertocat.png"/>](https://octodex.github.com/images/femalecodertocat.png)
 
 **Je suis développeuse web**
